@@ -4,18 +4,18 @@
 
 ## Routes
 
-### /api/v1/posts
+/api/v1/posts
 
-### Include a simple posts controler to test token access.
+Include a simple posts controler to test token access.
 
 
 # Users
 
 ## Routes
 
-### /users for sign up
+/users for sign up
 
-### /users/sign_in for login 
+/users/sign_in for login 
 
-### /users/sign_out for sign out
+/users/sign_out for sign out
 
