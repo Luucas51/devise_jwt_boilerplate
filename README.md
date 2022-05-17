@@ -1,24 +1,21 @@
-# README
+# This repo is the simple boiler plate to init devise-jwt
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Posts
 
-Things you may want to cover:
+## Routes
 
-* Ruby version
+### /api/v1/posts
 
-* System dependencies
+### Include a simple posts controler to test token access.
 
-* Configuration
 
-* Database creation
+# Users
 
-* Database initialization
+## Routes
 
-* How to run the test suite
+### /users for sign up
 
-* Services (job queues, cache servers, search engines, etc.)
+### /users/sign_in for login 
 
-* Deployment instructions
+### /users/sign_out for sign out
 
-* ...
